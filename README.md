@@ -230,3 +230,7 @@ Click [here](https://github.com/hiteshchoudhary/apihub/blob/main/CONTRIBUTING_CO
 # 📜 Swagger Docs
 
 [Swagger Docs](https://api.freeapi.app): https://api.freeapi.app
+
+![1](https://github.com/SDE-FAISAL/-FreeAPI.app/assets/77503199/c63fcbf0-96fb-43f6-9043-7b88d9e36f60)
+![2](https://github.com/SDE-FAISAL/-FreeAPI.app/assets/77503199/4e4bcfca-c8ec-4418-9d3f-c1f556e5d6a3)
+![3](https://github.com/SDE-FAISAL/-FreeAPI.app/assets/77503199/e32ed86d-c067-4bf7-b399-66a162b15f58)
